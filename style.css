@@ -1,0 +1,69 @@
+body {
+background-color:rgb(40, 36, 54)
+}
+
+center .badge
+{
+  font-size:2em;
+}
+
+.btn
+{
+  border-radius:10%;
+}
+
+li .done span {
+    text-decoration: line-through;
+  }
+
+  .btn-secondary
+  {
+    padding-top:7px;
+    margin-right:250px;
+  }
+
+#Imp
+  {
+    background-color:rgb(241, 247, 162);
+  }
+
+  .fas,.far
+  {
+    font-size:30px;
+    cursor:pointer;
+    
+  }
+
+  .fa-times-circle
+  {
+    color:red;
+  }
+
+  .fa-arrow-up
+  {
+    color:blue;
+  }
+
+  .fa-arrow-down
+  {
+    color:rgb(119, 119, 134);
+  }
+
+  .fa-star
+  {
+    color:gold;
+  }
+
+  .fa-check
+  {
+    color:rgb(255, 0, 200);
+  }
+
+  .fa-info-circle
+  {
+    color:white;
+    font-size:65px;
+    float:right;
+    top:0;
+    position:sticky;
+  }
